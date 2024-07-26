@@ -29,7 +29,7 @@ Function介紹
 
 * get_basic_info()
 裡面含有三個元素查找 分別是用來查詢
-![Tiktok](https://github.com/user-attachments/assets/0f80a13c-ffc5-4706-a3ab-81159494215a)
+![Tiktok](https://github.com/user-attachments/assets/0f80a13c-ffc5-4706-a3ab-81159494215a)  
 最後有一個print()可以方便查看爬取到的數據
 
 * ge_content()
